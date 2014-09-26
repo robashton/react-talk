@@ -18,7 +18,34 @@ What I am not going to talk about because I want to focus on the positive things
 What I am going to talk about is React and NPM and how we use these things in our products
 I'm not going to dwell too much on the React 101 because that's been done to death
 
-===================
+=================== 5 minutes ==============
+
+The goals
+  - Maintain control over our application
+  - Be able to pick and choose libraries for managing "stuff"
+  - Testable UI (when absolutely necessary)
+  - Fast rendering of views
+
+Without React
+  - NPM ALL THE THINGS
+  - Mustache for pull-based templating
+  - HTML munging for push-based templating (my preferred)
+
+Quick demo (NPM + Widget)
+
+package.json
+index.js
+widget/pony.js
+
+browserify
+
+=================== 15 minutes ======================
+
+With React
+  - NPM ALL THE THINGS
+  - React for rendering (most) views
+
+Why?
 
 React is beautiful
 
@@ -30,14 +57,49 @@ React is beautiful
  - It's just HTML
  - Presentation logic and presentation kept close together
 
-=================
+What does this look like
 
+  - widget.jsx
+  - module.exports = React.createClass({
+    render: function() {
+      return <p>Hello ponies</p>
+    }
+  })
 
+=================== 20 minutes =================
 
-  - Data goes in, HTML gets created, diffing gets done, minimal dom changes made
+Stick this into our demo above - browserify + reactify
 
+=================== 25 minutes =================
 
+Data flow in React (THIS IS THE IMPORTANT BIT)
 
+- Props are for passing state IN and events OUT
+- State is for internal concerns
+- Try not to use state
 
+- Demo of props
+- Demo of state
 
+=================== 40 minutes ===============
+
+How about client-side routing at that point?
+
+ - location-bar (insert npm module here)
+
+Demo
+  client-side routing
+
+=================== 45 minutes ==============
+
+- Things we do in React
+  - Render dashboards
+  - Form interaction
+
+- Things we do outside of React
+  - Client-side routing
+  - Modal windows (yeah, we have those)
+  - Charting
+  - Track our current user environment
+  - Everything else
 

@@ -1,0 +1,43 @@
+- I am Rob Ashton
+- You may remember me from past conferences such as
+  - DevDay2011
+  - DevDay2012
+  - DevDay2013
+- For those of you wondering after last time, I do now have a job - 100% remote slinging Erlang and JS and I now live in Glasgow happily with my xbox
+
+===
+
+What I am not going to talk about because I want to focus on the positive things...
+
+  - The over-engineered java-wannabe that is AngularJS
+  - The well meaning abstraction that is EmberJS
+  - Coffeescript
+  - Semicolons
+  - Front-end design patterns (seriously, I just don't care)
+
+What I am going to talk about is React and NPM and how we use these things in our products
+I'm not going to dwell too much on the React 101 because that's been done to death
+
+===================
+
+React is beautiful
+
+ - Minimal API surface area
+  - setState
+   (createComponent is going away and being replaced with "class")
+ - One way data flow
+  - (Can't end up in the ember spaghetti mess, binding onto binding onto binding)
+ - It's just HTML
+ - Presentation logic and presentation kept close together
+
+=================
+
+
+
+  - Data goes in, HTML gets created, diffing gets done, minimal dom changes made
+
+
+
+
+
+

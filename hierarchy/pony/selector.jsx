@@ -6,7 +6,7 @@ module.exports = React.createClass({
       this.props.onChange(e.target.value)
   },
   render: function() {
-    return <select onChange={this.handleChange}>
+    return <select value={this.props.value} onChange={this.handleChange}>
       <option value="pinkie">pinkie</option>
       <option value="rainbow dash">rainbow dash</option>
       <option value="rarity">rarity</option>

@@ -4,6 +4,6 @@ var ready = require('domready')
 
 ready(function() {
   var container = document.getElementById('container')
-  React.renderComponent(Pony(), container)
+  React.renderComponent(Pony({name: "pinkie pie"}), container)
 })
 

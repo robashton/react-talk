@@ -1,15 +1,15 @@
-BoM for release v1.0.1-master
+BoM for release v1.0.2-master
 Built on: Robs-MacBook-Air-2.local by robashton
-Date: Tue 26 May 2015 11:36:25 CEST
+Date: Tue 26 May 2015 11:38:48 CEST
 
 
 Root project: origin	https://github.com/robashton/react-talk (fetch)
 origin	https://github.com/robashton/react-talk (push)
-commit 46a4ae1c0cf84a5ec26c236cc006956a3529483d
-Author: Rob Ashton <robashton@Robs-MacBook-Air-2.local>
-Date:   Tue May 26 11:31:16 2015 +0200
+commit 7cb4be1a67b8f32f8330ddc2cbaf4c4617daa0b6
+Author: Rob Ashton <angrydero+github@gmail.com>
+Date:   Tue May 26 11:36:25 2015 +0200
 
-    Automated build number increase:
+    Automated build number increase: 1
 
 Git tag for dependency cowboy
 pulled from origin	git@github.com:extend/cowboy.git (fetch)

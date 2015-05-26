@@ -1,1 +1,1 @@
--define(VERSION, "v1.0.1-master").
+-define(VERSION, "v1.0.2-master").

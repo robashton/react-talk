@@ -1,4 +1,4 @@
-base	v1.0.1-master	https://github.com/robashton/react-talk	46a4ae1c0cf84a5ec26c236cc006956a3529483d
+base	v1.0.2-master	https://github.com/robashton/react-talk	7cb4be1a67b8f32f8330ddc2cbaf4c4617daa0b6
 dep	cowboy	git@github.com:extend/cowboy.git	b57f94661f5fd186f55eb0fead49849e0b1399d1
 dep	cowlib	git://github.com/ninenines/cowlib.git	d544a494af4dbc810fc9c15eaf5cc050cced1501
 dep	edown	git://github.com/esl/edown.git	4d18dc4bec89c20c0ba8cab6884ce690ca606f4a

@@ -1,0 +1,103 @@
+BoM for release v1.0.1-master
+Built on: Robs-MacBook-Air-2.local by robashton
+Date: Tue 26 May 2015 11:36:25 CEST
+
+
+Root project: origin	https://github.com/robashton/react-talk (fetch)
+origin	https://github.com/robashton/react-talk (push)
+commit 46a4ae1c0cf84a5ec26c236cc006956a3529483d
+Author: Rob Ashton <robashton@Robs-MacBook-Air-2.local>
+Date:   Tue May 26 11:31:16 2015 +0200
+
+    Automated build number increase:
+
+Git tag for dependency cowboy
+pulled from origin	git@github.com:extend/cowboy.git (fetch)
+origin	git@github.com:extend/cowboy.git (push)
+commit b57f94661f5fd186f55eb0fead49849e0b1399d1
+Merge: ef0ec79 a32a476
+Author: Loïc Hoguin <essen@ninenines.eu>
+Date:   Tue Aug 12 19:01:56 2014 +0200
+
+    Merge branch 'master' of git://github.com/okeuday/cowboy
+
+Git tag for dependency cowlib
+pulled from origin	git://github.com/ninenines/cowlib.git (fetch)
+origin	git://github.com/ninenines/cowlib.git (push)
+commit d544a494af4dbc810fc9c15eaf5cc050cced1501
+Author: Loïc Hoguin <essen@ninenines.eu>
+Date:   Fri Aug 1 11:13:07 2014 +0200
+
+    Update cowlib to 1.0.0
+
+Git tag for dependency edown
+pulled from origin	git://github.com/esl/edown.git (fetch)
+origin	git://github.com/esl/edown.git (push)
+commit 4d18dc4bec89c20c0ba8cab6884ce690ca606f4a
+Merge: 3a738bf 68022f0
+Author: Ulf Wiger <ulf@feuerlabs.com>
+Date:   Fri Jun 13 08:12:12 2014 +0200
+
+    Merge pull request #30 from esl/uw-br-fix
+    
+    use <br /> instead of <br></br>
+
+Git tag for dependency gen_leader
+pulled from origin	git://github.com/abecciu/gen_leader_revival.git (fetch)
+origin	git://github.com/abecciu/gen_leader_revival.git (push)
+commit a119cb9a39f94254247962bce4616b6f607cca80
+Merge: de57ba7 83e9d61
+Author: Augusto Becciu <augusto@becciu.org>
+Date:   Tue Jun 5 15:18:32 2012 -0700
+
+    Merge pull request #4 from lemenkov/fedora
+    
+    Use lists:keysearch/3 instead of lists:keyfind/3.
+
+Git tag for dependency goldrush
+pulled from origin	git://github.com/DeadZen/goldrush.git (fetch)
+origin	git://github.com/DeadZen/goldrush.git (push)
+commit 1d883423ac360b3536ca52dc733a0164bacf3109
+Author: Pedram Nimreezi <deadzen@deadzen.com>
+Date:   Fri Nov 8 11:52:56 2013 -0500
+
+    Bump version to 0.1.5
+
+Git tag for dependency gproc
+pulled from origin	git://github.com/esl/gproc.git (fetch)
+origin	git://github.com/esl/gproc.git (push)
+commit 40621c1f1a92981c288b262a193217138657fe63
+Merge: 9c88453 983a736
+Author: Ulf Wiger <ulf.wiger@erlang-solutions.com>
+Date:   Fri Sep 30 09:33:25 2011 +0200
+
+    Merge branch 'master' of github.com:esl/gproc
+
+Git tag for dependency jsx
+pulled from origin	git://github.com/talentdeficit/jsx.git (fetch)
+origin	git://github.com/talentdeficit/jsx.git (push)
+commit 56880ce51976693b82c6f56bb877d166d9403d31
+Merge: 47ce39f 2008e98
+Author: alisdair sullivan <alisdairsullivan@yahoo.ca>
+Date:   Mon Apr 20 20:00:23 2015 -0700
+
+    v2.6.0
+
+Git tag for dependency lager
+pulled from origin	git://github.com/basho/lager.git (fetch)
+origin	git://github.com/basho/lager.git (push)
+commit ad400896af5b1ad8b4f7a4d34e609b5a990640bb
+Author: Andrew Thompson <andrew@hijacked.us>
+Date:   Fri Nov 8 15:57:19 2013 -0500
+
+    Roll version 2.0.1
+
+Git tag for dependency ranch
+pulled from origin	git://github.com/ninenines/ranch.git (fetch)
+origin	git://github.com/ninenines/ranch.git (push)
+commit adf1822defc2b7cfdc7aca112adabfa1d614043c
+Author: Loïc Hoguin <essen@ninenines.eu>
+Date:   Fri Aug 1 13:56:15 2014 +0200
+
+    Update examples Makefile
+
